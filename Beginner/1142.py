@@ -1,5 +1,6 @@
 N = int(input())
-for l in range(0,N):
-	for i in range(0,l):
-		
-		
+for i in range(1,(N*4)+1):
+	if(i%4 == 0):
+		print("PUM",end='\n')
+	else:
+		print(i,end=' ')
