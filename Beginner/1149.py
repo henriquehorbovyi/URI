@@ -1,3 +1,4 @@
+#still wrong 
 while True:
 	summ = 0
 	nums = input().split()
