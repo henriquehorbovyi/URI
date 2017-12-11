@@ -1,6 +1,8 @@
-#still wrong...
 N = int(input())
-for i in range(0,N):
-	a = i + i+1
-	print(a,end=' ')
-print()
+a,b = 1,1
+print(0,end=' ')
+for i in range(1,N-1):
+	if i != N:
+		print(a,end=' ')
+		a,b = b,a+b
+print(a,end='\n')
