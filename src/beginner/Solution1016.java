@@ -1,6 +1,7 @@
+package beginner;
 import java.util.Scanner;
 
-public class Main{
+public class Solution1016{
   	public static void main(String[] args) {
     	Scanner s = new Scanner(System.in);
 	  	int Dif = 90 - 60;

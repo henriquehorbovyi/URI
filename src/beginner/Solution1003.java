@@ -1,7 +1,7 @@
 package beginner;
 import java.util.Scanner;
 
-public class Main {
+public class Solution1003 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int A = s.nextInt(), B = s.nextInt();

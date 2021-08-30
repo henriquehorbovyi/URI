@@ -1,8 +1,10 @@
+package beginner;
+
 import java.text.DecimalFormat;
 import java.util.Locale;
 import java.util.Scanner;
  
-public class Main {
+public class Solution1002 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         Locale.setDefault(Locale.US);

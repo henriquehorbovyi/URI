@@ -1,7 +1,9 @@
+package beginner;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
  
-public class Main {
+public class Solution1018 {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
