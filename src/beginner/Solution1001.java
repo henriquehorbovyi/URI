@@ -9,4 +9,4 @@ public class Solution1001 {
         int a = s.nextInt(),b = s.nextInt();   
         System.out.println("X = " +(a+b));    
     }   
-}package beginner;
+}
